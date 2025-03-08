@@ -1,5 +1,3 @@
-# Shopping-cart
-
 # Shopping Cart Web Application
 =============================
 
